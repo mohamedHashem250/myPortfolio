@@ -22,19 +22,17 @@ Outcome: Improved the performance of ensemble classifiers, demonstrating signifi
 Description: Designed and trained a multi-classification neural network model, integrating comprehensive visualizations during training, validation, and testing phases.Included heat maps, F1-scores, and ROC curves to provide insights into model performance.
 Technologies: Python, TensorFlow, Keras, Matplotlib, Seaborn.
 Outcome: Enhanced model interpretability and facilitated a deeper understanding of model performance across various metrics.
-(/myAssets/myImages/Classification-scheme-of-visualization-methods-for-deep-learning.png)
-/myAssets/myImages/myImg.jpg
+https://github.com/mohamedHashem250/myPortfolio/blob/main/myAssets/myImages/Classification-scheme-of-visualization-methods-for-deep-learning.png
 ###  Real-Time Object Detection System using YOLOv5
 Description: Developed a real-time object detection system using the YOLOv5 architecture. This project focused on identifying and classifying objects in live video feeds, with a strong emphasis on speed and accuracy.
 Technologies: Python, PyTorch, OpenCV, YOLOv5.
 Outcome: Achieved high detection accuracy with minimal latency, making it suitable for real-time surveillance and autonomous driving applications.
-(/myAssets/myImages/CVimage.jpg)
-
+https://github.com/mohamedHashem250/myPortfolio/blob/main/myAssets/myImages/CVimage.jpg
 ### Image Segmentation for Medical Imaging using U-Net
 Description: Developed an image segmentation model based on the U-Net architecture for segmenting medical images, specifically for identifying tumor regions in MRI scans. The project emphasized the importance of accurate segmentation in medical diagnostics.
 Technologies: Python, TensorFlow, Keras, U-Net.
 Outcome: Successfully achieved high segmentation accuracy, aiding in more precise and reliable medical diagnoses.
-(/myAssets/myImages/medicalimage.png)
+https://github.com/mohamedHashem250/myPortfolio/blob/main/myAssets/myImages/medicalimage.png
 
 ## Machine Learning Online Courses
 - Machine Learning by Stanford University on Coursera.
