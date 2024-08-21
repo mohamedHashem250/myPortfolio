@@ -2,8 +2,8 @@
 #### Technical Skills: Python, PyTorch, Tensorflow, OpenCV, Scikit-learn.
 
 ## Education
-MSc in computer science|Faculty of Engineering, Benha University
-BSc in Electrical Engineering |Faculty of Engineering, Benha University
+- MSc in computer science|Faculty of Engineering, Benha University
+- BSc in Electrical Engineering |Faculty of Engineering, Benha University
 ## Work Experience
 **Data Scientist Research (_September 2022 - Present_)**
 - work on Enhancing intrusion detection systems based on machine learning and deep learning.
