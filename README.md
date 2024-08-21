@@ -47,7 +47,7 @@ BSc in Electrical Engineering |Faculty of Engineering, Benha University
   Python, TensorFlow, Keras, U-Net.
 #### Outcome
   Successfully achieved high segmentation accuracy, aiding in more precise and reliable medical diagnoses.
-![Alttext](/myAssets/myImages/medicalimage.png)
+![Alt text](/myAssets/myImages/medicalimage.png)
 
 ## Machine Learning Online Courses
 - Machine Learning by Stanford University on Coursera.
