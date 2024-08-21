@@ -39,7 +39,7 @@ BSc in Electrical Engineering |Faculty of Engineering, Benha University
   Python, PyTorch, OpenCV, YOLOv5.
 #### Outcome
   Achieved high detection accuracy with minimal latency, making it suitable for real-time surveillance and autonomous driving applications.
-![Alt text](https://github.com/mohamedHashem250/myPortfolio/blob/main/myAssets/myImages/CVimage.jpg)
+![Alt text](/myAssets/myImages/CVimage.jpg)
 ### Image Segmentation for Medical Imaging using U-Net
 #### Description
   Developed an image segmentation model based on the U-Net architecture for segmenting medical images, specifically for identifying tumor regions in MRI scans. The project emphasized the importance of accurate segmentation in medical diagnostics.
@@ -47,7 +47,7 @@ BSc in Electrical Engineering |Faculty of Engineering, Benha University
   Python, TensorFlow, Keras, U-Net.
 #### Outcome
   Successfully achieved high segmentation accuracy, aiding in more precise and reliable medical diagnoses.
-![Alttext](https://github.com/mohamedHashem250/myPortfolio/blob/main/myAssets/myImages/medicalimage.png)
+![Alttext](/myAssets/myImages/medicalimage.png)
 
 ## Machine Learning Online Courses
 - Machine Learning by Stanford University on Coursera.
