@@ -5,9 +5,9 @@
 MSc in computer science|Faculty of Engineering, Benha University
 BSc in Electrical Engineering |Faculty of Engineering, Benha University
 ## Work Experience
-**Data Scientist Research (_Sep 2022-Present)**
+**Data Scientist Research (_September 2022 - Present_)**
 - work on Enhancing intrusion detection systems based on machine learning and deep learning.
-**Teaching Assistant (_Dec 2020-Present)**
+**Teaching Assistant (_December 2020 - Present_)**
 - Develop and deliver engaging lectures, laboratory sessions, and tutorials.
 - Participate in students' graduation projects, particularly those involving machine-
   learning applications, helping them to define project scopes, develop models, and analyze results.
@@ -23,7 +23,7 @@ Description: Designed and trained a multi-classification neural network model, i
 Technologies: Python, TensorFlow, Keras, Matplotlib, Seaborn.
 Outcome: Enhanced model interpretability and facilitated a deeper understanding of model performance across various metrics.
 (/myAssets/myImages/Classification-scheme-of-visualization-methods-for-deep-learning.png)
-
+/myAssets/myImages/myImg.jpg
 ###  Real-Time Object Detection System using YOLOv5
 Description: Developed a real-time object detection system using the YOLOv5 architecture. This project focused on identifying and classifying objects in live video feeds, with a strong emphasis on speed and accuracy.
 Technologies: Python, PyTorch, OpenCV, YOLOv5.
